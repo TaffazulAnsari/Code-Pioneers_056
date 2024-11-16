@@ -1,10 +1,15 @@
 # BEFIT- A health-related service platform.
-
 ![](https://github.com/HeyTaffazul/Code-Pioneers_057/blob/main/images/Screenshot%202024-11-16%20132628.png)
+
+## Introduction 
+BEFIT is a health-related service platform that offers health-related services, including activity tracking, mental wellness programs, nutrition plans, and personal training bookings. The testing focused on verifying the functionality, usability, and accessibility of these features across multiple devices and browsers.
 
 ## Objective
 
-The goal of this testing project is to evaluate the **functionality**, **performance**, and **usability** of the **BEFIT** website hosted at [Link](https://baidu-bandits-072-git-main-sanjukumari-techs-projects.vercel.app/). This testing focuses on ensuring that the website works as expected, navigates smoothly, and provides a user-friendly experience.
+The goal of this testing project is to evaluate the **functionality**, **performance**, and **usability** of the **BEFIT** website hosted at [Link](https://baidu-bandits-072-git-main-sanjukumari-techs-projects.vercel.app/). This testing ensures that the website works as expected, navigates smoothly, and provides a user-friendly experience.
+
+## Project Type
+Manual Testing 
 
 ## Table of Contents
 
@@ -16,6 +21,7 @@ The goal of this testing project is to evaluate the **functionality**, **perform
 - [Resources Required](#resources-required)
 - [Test Execution Summary](#test-execution-summary)
 - [Recommendations and suggestions](#test-execution-summary)
+
 
 ## Test Plan Overview
 
@@ -55,6 +61,7 @@ Anjali Shaw
 **Tester:**  
 Taffazul Ansari
 
+
 ## Scope of Testing
 
 ### Functional Testing
@@ -71,7 +78,6 @@ Focuses on the user’s ability to interact with the website:
 - **Responsive Design**: Verifying that the website adjusts across devices.
 - **Browser Compatibility**: Ensuring consistent behavior across major browsers.
 
----
 
 ## Test Criteria
 
@@ -83,6 +89,7 @@ Focuses on the user’s ability to interact with the website:
 - Critical navigation problems (e.g., broken links).
 - Functional failures (e.g., login/signup not returning results).
 - Usability problems (e.g., unreadable text, non-responsive design).
+
 
 ## Test Strategy
 
@@ -127,7 +134,6 @@ Focuses on the user’s ability to interact with the website:
 - **Software**: Browsers (Chrome, Firefox, Edge, Safari), tools for capturing screenshots/videos (Snipping Tool).
 - **Access to Website**: Ensure testers have access to the site for performing the tests.
 
----
 
 ## Test Execution Summary
 
@@ -138,7 +144,7 @@ Focuses on the user’s ability to interact with the website:
 **Minor Bugs**: 7  
 
 
-## Recommendations and Suggestions 
+## Recommendations  and Suggestions
 
 1. **Login/Signup**:  
    Enhance input validation and improve error messages for better user understanding.
