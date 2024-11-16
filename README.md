@@ -1,5 +1,5 @@
 # BEFIT- A health-related service platform.
-![]()
+![](images/Screenshot 2024-11-16 132628.png)
 ## Objective
 
 The goal of this testing project is to evaluate the **functionality**, **performance**, and **usability** of the **BEFIT** website hosted at [Link]. This testing focuses on ensuring that the website works as expected, navigates smoothly, and provides a user-friendly experience.
