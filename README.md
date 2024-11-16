@@ -1,5 +1,5 @@
 # BEFIT- A health-related service platform.
-(https://github.com/HeyTaffazul/Code-Pioneers_057/blob/main/images/Screenshot%202024-11-16%20132628.png)
+![](https://github.com/HeyTaffazul/Code-Pioneers_057/blob/main/images/Screenshot%202024-11-16%20132628.png)
 ## Objective
 
 The goal of this testing project is to evaluate the **functionality**, **performance**, and **usability** of the **BEFIT** website hosted at [Link]. This testing focuses on ensuring that the website works as expected, navigates smoothly, and provides a user-friendly experience.
