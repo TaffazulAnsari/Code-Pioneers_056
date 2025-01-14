@@ -1,4 +1,4 @@
-# BEFIT- A health-related service platform.
+# BEFIT- A health-related service platform Using Manual Testing.
 ![](https://github.com/HeyTaffazul/Code-Pioneers_057/blob/main/images/Screenshot%202024-11-16%20132628.png)
 
 ## Introduction 
